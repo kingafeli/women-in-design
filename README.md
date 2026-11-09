@@ -1,1 +1,2 @@
-# women-in-design
+# Women in Design
+[Version 1](https://kingafeli.github.io/women-in-design/)
